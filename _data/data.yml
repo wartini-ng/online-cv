@@ -89,9 +89,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Postdoctoral Research Fellow 
+        time: 2019 - Present
+        company: Faculty of Science, The University of Sydney 
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -102,8 +102,11 @@ experiences:
           error sit voluptatem accusantium doloremque laudantium, totam rem
           aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
           architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+            - Benchmarked various chemometrics modelling for the prediction of geochemical properties in New South Wales 
+            - Developed indices and maps of micronutrients in soil within New South Wales to help tackle hidden hunger 
+            - Established calibration functions for near infrared spectrometer for the Indonesian Center for Agricultural Land Resources Research and Development
+            - Collaborated with USDA-NRCS researchers in developing spectral transfer calibration library
+
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
@@ -160,42 +163,31 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: Near and mid infrared soil spectroscopy
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Ng, W., Malone, B., Minasny, B., and Jeon, S.
+        conference: Reference Module in Earth Systems and Environmental Sciences, 2022
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: Mid-infrared spectroscopy for accurate measurement of an extensive set of soil properties for assessing soil functions
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Ng, W., Minasny, B., Jeon, S. H., and McBratney, A. 
+        conference: Soil Security, 100043, 2022
 
-      - title: A syntax directed compiler for Algol 60
+      - title: To spike or to localize? Strategies to improve the prediction of local soil properties using regional spectral library
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Ng, W., Minasny, B., Jones, E., and McBratney, A. 
+        conference: Geoderma, 406, 115501 (2022)
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python 
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: R
         level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
