@@ -56,33 +56,36 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a research fellow in the School of Life and Environmental Sciences within the University of Sydney. She received a BS degree with cum laude in environmental engineering from University of California Riverside in USA, and PhD degree in soil science from University of Sydney. Her doctoral research focused on the integration of novel data analytics and proximal sensing to analyse soil conditions. She explored the use of machine learning methods, including deep learning to improve the prediction accuracies of soil properties in large spectral databases.
+      I am a research fellow in the School of Life and Environmental Sciences within the University of Sydney. I received a BS degree with cum laude in Environmental Engineering from University of California Riverside in USA, and PhD degree in Soil Science from University of Sydney. My doctoral research focused on the integration of novel data analytics and proximal sensing to analyse soil conditions. I explored the use of machine learning methods, including deep learning to improve the prediction accuracies of soil properties in large spectral databases.
       
 education:
     title: Education
     info:
-      - degree: PhD in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: PhD in Agriculture and Environment
+        university: University of Sydney
+        time: 2019
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+            -	Developed predictive models to determine soil properties using spectroscopy data
+            -	Investigated the performance of machine learning models against the deep learning model
+            -	Collaborated with other international scientists on developing predictive models
+            -	Presented research work at local and international conferences
+            -	Lead weekly discussions on statistics class with undergraduate students
+
+      - degree: BSc in Environmental Engineering
+        university: University of California Riverside
+        time: 2014
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          NOx-Out: Selective Catalytic Reduction for Lawn Mower Emissions	June 2013 - Aug 2014
+            -	Developed a novelty technology which reduce emissions from lawn mowers by an average of 60 percent while ensuring safety compliance for end users
+            -	Analyzed the lawn mower exhaust emissions with and without the prototype and provided suggestions for improvement to reduce NOx
+            -	Reviewed journal articles and inspected possible methods to further improve the catalytic activity
+            Particle and Gaseous Emissions from Bio-Fuels 	 Jan 2013 - Aug 2013
+            -	Analyzed the effect of different chemical composition in the gasoline on the emissions of cars by observing the carbon content and surface tension of the collected particulate matter
+            Denitrification using an Up-flow Reactor 	June 2012 - Jan 2013
+                -	Led and trained a small group in maintaining a pilot-scale biological reactor, which is able to achieve 90% reduction of nitrate-contaminated ground water, such as measuring turbidity, pH, dissolved oxygen, alkalinity, nitrate and nitrite concentration of the influent and effluent
+            Pasteurization Using a Lens and Solar Energy	Mar 2012 - Jan 2013
+                -	Assisted a senior design team to optimize solar disinfection method in developing countries with minimum cost and time
+
 experiences:
     title: Experiences
     info:
