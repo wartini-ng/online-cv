@@ -177,6 +177,14 @@ publications:
         link: "#"
         authors: Ng, W., Minasny, B., Jones, E., and McBratney, A. 
         conference: Geoderma, 406, 115501 (2022)
+        
+    title: Conferences
+    intro: |   
+    papers:
+      - title: TEST
+        link: "#"
+        authors: Ng, W., Malone, B., Minasny, B., and Jeon, S.
+        conference: Reference Module in Earth Systems and Environmental Sciences, 2022
 
 skills:
     title: Skills &amp; Proficiency
