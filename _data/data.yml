@@ -56,12 +56,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a research fellow in the School of Life and Environmental Sciences within the University of Sydney. She received a BS degree with cum laude in environmental engineering from University of California Riverside in USA, and PhD degree in soil science from University of Sydney. Her doctoral research focused on the integration of novel data analytics and proximal sensing to analyse soil conditions. She explored the use of machine learning methods, including deep learning to improve the prediction accuracies of soil properties in large spectral databases.
       
 education:
     title: Education
